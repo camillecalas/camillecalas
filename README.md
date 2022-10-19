@@ -8,4 +8,5 @@
 - C
 - C++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillecalas)](https://github.com/camillecalas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillecalas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
