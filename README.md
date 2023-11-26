@@ -7,6 +7,9 @@
 - HTML / CSS
 - C
 - C++
+- React
+- NestJs
+- Typescript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillecalas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
