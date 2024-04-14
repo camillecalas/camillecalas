@@ -1,4 +1,4 @@
-# 🏴‍☠️ AHOY, I'm Camille Calas
+# 🏴‍☠️ AHOY, I'm Camille
 
 - 👩‍🎓 Graduated from @42 Paris
 - 🔭 I'm looking for cool projects
