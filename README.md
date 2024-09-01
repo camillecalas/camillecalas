@@ -8,6 +8,8 @@
 - C
 - C++
 - React
+- Nodejs
+- NextJs
 - NestJs
 - Typescript
 
